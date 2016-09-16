@@ -1,0 +1,1 @@
+Typescript implementation of http://codetunnel.io/how-to-do-loading-spinners-the-angular-way/
